@@ -1,0 +1,24 @@
+# Environment
+.env
+*.key
+*.pem
+credentials*
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backups
+*.backup_*
+*.bak
+
+# Temp
+*.tmp
+*.swp
+*~
